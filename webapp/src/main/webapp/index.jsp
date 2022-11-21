@@ -27,10 +27,10 @@
             <h2>Skills</h2>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Reiciendis in maiores autem quidem obcaecati excepturi! Cupiditate eaque itaque magni voluptatibus neque nobis est dolor? Atque sunt minus ipsa asperiores. At.</p>
             <h2>Projects</h2>
-            <a href="#">Project 1</a>
-            <a href="#">Project 2</a>
-            <a href="#">Project 3</a>
-            <a href="#">Project 4</a>
+            <a href="#">AWS</a>
+            <a href="#">DEVOPS </a>
+            <a href="#">NEXUS </a>
+            <a href="#">TOMCAT</a>
             <a href="#">Project 5</a>
             <h2>Contact</h2>
             <p>myEmail@email.com</p>
